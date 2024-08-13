@@ -1,9 +1,3 @@
-
-
-Certainly! Here’s a README file for your microcontroller project:
-
----
-
 # Microcontroller Door Lock System
 
 ## Overview
