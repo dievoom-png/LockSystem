@@ -37,7 +37,7 @@ This project implements a simple door lock system using an 8051 microcontroller.
    - Connected to Port 1 (P1).
 
 3. **Output Control**:
-   - IN1, IN2, IN3: Connected to various outputs for control signals.
+   - IN1, IN2, IN3: Connected to control signals that controls the H-bridge, which is responsible for opening the door lock.
 
 ## Code Explanation
 
