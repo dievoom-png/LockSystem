@@ -88,9 +88,6 @@ This project implements a simple door lock system using an 8051 microcontroller.
 - **Keypad Not Responding**: Verify the keypad connections and the scanning routine in the `KEY_SCAN` function.
 - **Incorrect Password Handling**: Confirm that the password matches the predefined sequence in the code.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
