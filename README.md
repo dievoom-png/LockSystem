@@ -75,14 +75,6 @@ This project implements a simple door lock system using an 8051 microcontroller.
 4. **Enter** the password using the keypad:
    - Enter `1, 2, 3, 4, 5` to unlock.
    - Any other sequence will display an error message.
-
-## Troubleshooting
-
-- **LCD Not Displaying**: Check connections and initialization code. Ensure that the LCD is correctly powered and connected.
-- **Keypad Not Responding**: Verify the keypad connections and the scanning routine in the `KEY_SCAN` function.
-- **Incorrect Password Handling**: Confirm that the password matches the predefined sequence in the code.
-
-
 ---
 
 Feel free to adjust or add any additional details specific to your project setup or requirements!
